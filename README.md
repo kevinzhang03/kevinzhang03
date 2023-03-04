@@ -13,4 +13,6 @@ You'll probably find me cooking tasty things, deranking in Valorant, ~~practicin
 
 Hey check out this cool photo I took B)
 
-<img src="https://user-images.githubusercontent.com/43940223/222878427-2df63344-78a4-4eba-93b5-f688941dae6b.jpg" width="60%" align="center" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/43940223/222878427-2df63344-78a4-4eba-93b5-f688941dae6b.jpg" width="60%" />
+<p/>
