@@ -8,7 +8,7 @@ You'll probably find me cooking tasty things, deranking in Valorant, ~~practicin
 - 🌱 Learning lots and lots of React @_@
 - 🤔 Looking for help with scraping together the funds to buy an xpan
 - 💬 Ask me about film photography. I will literally not shut up
-- 📫 You can reach me on my https://kevinistaking.pictures/ for my contact information :D
+- 📫 You can go to my [amazing website](https://kevinistaking.pictures/) for my contact information :D
 - ⚡ Fun fact: uh
 
 Hey check out this cool photo I took B)
