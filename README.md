@@ -4,11 +4,11 @@ I'm a second-year Computer Engineering student at the University of Waterloo. I 
 
 You'll probably find me cooking tasty things, deranking in Valorant, ~~practicing my intrument,~~ crying, or shooting film in my free time!
 
-- 🔭 Working on my new website because my current one is terrible
-- 🌱 Learning lots and lots of React @_@
+- 🔭 Working my ass off trying to fix my domain and website hahahaahahahahahahahahhahhahahahahaha
+- 🌱 Learning lots and lots of React/Firebase/GraphQL/GraphCMS @_@
 - 🤔 Looking for help with scraping together the funds to buy an xpan
 - 💬 Ask me about film photography. I will literally not shut up
-- 📫 You can go to my [amazing website](https://kevinistaking.pictures/) for my contact information :D
+- 📫 You can go to my [amazing website](https://kevinistaking.pictures/) for my contact information (it's down right now..............)
 - ⚡ Fun fact: uh
 
 Hey check out this cool photo I took B)
