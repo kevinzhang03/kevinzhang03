@@ -9,7 +9,7 @@ You'll probably find me cooking tasty things, deranking in Valorant, ~~practicin
 - 🤔 Looking for help with scraping together the funds to buy an xpan
 - 💬 Ask me about film photography. I will literally not shut up
 - 📫 You can go to my [amazing website](https://kevinistaking.pictures/) for my contact information
-- ⚡ Fun fact: I've tried to fix four film cameras and so far I have a 100% lose rate!! B)
+- ⚡ Fun fact: I've tried to fix four film cameras and so far I have a 100% lose rate!!
 
 Hey check out this cool photo I took B)
 
