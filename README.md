@@ -2,7 +2,7 @@
 
 I'm a third-year Computer Engineering student at the University of Waterloo. I really don't know what I'm doing sometimes, but that usually means I'm busy learning cool stuff.
 
-You'll probably find me cooking tasty things, deranking in Valorant, ~~practicing my intrument,~~ or shooting film in my free time!
+You'll probably find me learning guitar, building my site, or shooting film in my free time!
 
 - 🔭 Migrating my entire site to I can avoid later technical debt...
 - 🤔 Looking for help with scraping together the funds to buy an xpan
