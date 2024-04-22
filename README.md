@@ -1,14 +1,6 @@
-# i'm kevin. i code and wish i can afford an xpan
+# kevin zhang
 
-I'm a third-year Computer Engineering student at the University of Waterloo. I really don't know what I'm doing sometimes, but that usually means I'm busy learning cool stuff.
-
-You'll probably find me learning guitar, building my site, or shooting film in my free time!
-
-- 🔭 Migrating my entire site to I can avoid later technical debt...
-- 🤔 Looking for help with scraping together the funds to buy an xpan
-- 💬 Ask me about film photography. I will literally not shut up
-- 📫 You can go to my [amazing website](https://kevinistaking.pictures/) for my contact information
-- ⚡ Fun fact: I've tried to fix four film cameras and so far I have a 100% lose rate!!
+I'm a third-year UWaterloo student studying Computer Engineering, having worked for ecobee and Ford in the past. When I have time, I focus on developing my intuition, appreciation, and skill in various forms of art like photography, graphic design, and music.
 
 Hey check out this cool photo I took B)
 
